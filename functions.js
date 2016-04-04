@@ -12,3 +12,4 @@ function multiply (a) {
 
 }
 
+(add(subtract(multiply(3))))

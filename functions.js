@@ -13,3 +13,15 @@ function multiply (a) {
 }
 
 (add(subtract(multiply(3))))
+
+function splinter (x, y) {
+
+var z = x * y;
+
+var numbers = [x, y, z];
+
+return numbers;
+
+};
+
+console.log(splinter(1, 2));

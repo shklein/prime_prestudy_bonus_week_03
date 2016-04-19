@@ -1,0 +1,56 @@
+main {
+	background-image: url("http://www.transparenttextures.com/patterns/arches.png");
+	background-repeat: repeat;
+	}
+
+
+header {
+
+	text-align: center;
+	background-color: #cccccc;
+	box-shadow: 10px 10px 5px #000000;
+	padding: 10px;
+	margin-right: 425px;
+	margin-left: 425px;
+	border-radius: 25px;
+}
+
+button {
+
+	background-color: #cccccc;
+}
+
+.test {
+
+	display: none;
+	background-color: #cccccc;
+}
+
+section {
+	text-align: left;
+	background-color: #cccccc;
+	padding: 5px;
+	border-radius: 25px;
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+h1 {
+font-family: sans-serif;
+}
+
+h2 {
+	text-align: left;
+	margin-left: 20px;
+	font-family: sans-serif;
+	}
+
+ul li {
+	list-style-type: none;
+}
+
+footer {
+	text-align: center;
+}
